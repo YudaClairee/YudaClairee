@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello, I'am Djibrani Yuda. A Software Development and Blockchain Enthusiast
+Hello, I'am Djibrani Yuda. A Frontend Developer and Blockchain Enthusiast
 
 ## 🌐 Socials:
 
