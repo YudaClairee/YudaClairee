@@ -2,6 +2,8 @@
 
 Hello, I'am Djibrani Yuda. A Frontend Developer and Blockchain Enthusiast
 
+![Djibrani Yuda](github-header-banner.png)
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/djibyudaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/djibraniyuda)
