@@ -19,10 +19,8 @@ Hello, I'am Djibrani Yuda. A Frontend Developer and Blockchain Enthusiast
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-stats-card-generator.vercel.app/api/svg?username=YudaClairee)
-![Top Languages](https://github-stats-card-generator.vercel.app/api/svg?username=YudaClairee&type=languages)
-![Contributions](https://github-stats-card-generator.vercel.app/api/svg?username=YudaClairee&type=contributions)
-![Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=YudaClairee&type=top-repos)
+![YudaClairee's Language stats](https://github-stats-card-generator.vercel.app/api/svg?username=YudaClairee&type=languages&theme=github&chart=donut)
+![YudaClairee's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=YudaClairee&type=contributions&theme=github)
 
 ## 🏆 GitHub Trophies
 
