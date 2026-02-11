@@ -19,10 +19,10 @@ Hello, I'am Djibrani Yuda. A Frontend Developer and Blockchain Enthusiast
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 # 📊 GitHub Stats:
-[![Yuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YudaClairee)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=YudaClairee&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YudaClairee&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YudaClairee&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-stats-card-generator.vercel.app/api/svg?username=YudaClairee)
+![Top Languages](https://github-stats-card-generator.vercel.app/api/svg?username=YudaClairee&type=languages)
+![Contributions](https://github-stats-card-generator.vercel.app/api/svg?username=YudaClairee&type=contributions)
+![Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=YudaClairee&type=top-repos)
 
 ## 🏆 GitHub Trophies
 
