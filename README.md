@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello, I'am Djibrani Yuda. A Frontend Developer and Blockchain Enthusiast
+Hello, I'am Djibrani Yuda. A Fullstack Developer and Blockchain Enthusiast
 
 ![Djibrani Yuda](github-header-banner.png)
 
